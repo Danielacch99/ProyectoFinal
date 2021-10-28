@@ -13,11 +13,20 @@ Integrantes del Equipo:
 
 | Nombre | correo |
 | --- | --- |
-| Name 1 | my.email@mail.com |
+| Daniela Contreras Chávez | 419088130@pcpuma.acatlan.unam.mx |
 | Name 2 | my.email@mail.com |
 
 &nbsp;
 # Objetivo
 
+<br>
+
+- El Aumento de las ventas
+- El Aumento del alcance
+- Cumplir con los requisitos del cliente
+- Darle más formalidad al negocio
+
 &nbsp;
 # Problematica
+
+Elaborar el diseño de una página web que sea atractiva, que cause impacto y que vaya acorde con las necesidades del cliente.

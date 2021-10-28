@@ -10,10 +10,11 @@ theme:
 extra_css:
     - css/page.css
 nav:
-    - Problema: todo.md
+    - Problema: Propuesta.md
     - Requerimientos:
-        - Requerimiento 1: todo.md
-        - Requerimiento 2: todo.md
+        - Requerimientos del usuario: requerimientos/RequerimientosUsuario.md
+        - Requerimientos del sistema: requerimientos/RequerimientosSistema.md
+        - Especificaciones del software: requerimientos/EspecificacionSoftware.md
     - Modelado:
         - Inicio: todo.md
     - Diseño:
