@@ -14,7 +14,7 @@ Integrantes del Equipo:
 | Nombre | correo |
 | --- | --- |
 | Daniela Contreras Chávez | 419088130@pcpuma.acatlan.unam.mx |
-| Name 2 | my.email@mail.com |
+| Francisco Javier Aguilera Terrazas | 316350536@pcpuma.acatlan.unam.mx |
 
 &nbsp;
 # Objetivo
