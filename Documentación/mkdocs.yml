@@ -14,6 +14,9 @@ nav:
     - Requerimientos:
         - Requerimientos del usuario: requerimientos/RequerimientosUsuario.md
         - Requerimientos del sistema: requerimientos/RequerimientosSistema.md
+        - Requerimientos del sistema de software: 
+            - Requerimientos funcionales: requerimientos/RequerimientosFuncionales.md
+            - Requerimientos no funcionales: requerimientos/RequerimientosNoFuncionales.md
         - Especificaciones del software: requerimientos/EspecificacionSoftware.md
     - Modelado:
         - Inicio: todo.md
