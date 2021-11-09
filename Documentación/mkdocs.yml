@@ -14,7 +14,7 @@ nav:
     - Requerimientos:
         - Requerimientos del usuario: requerimientos/RequerimientosUsuario.md
         - Requerimientos del sistema: requerimientos/RequerimientosSistema.md
-        - Especificaciones del software: requerimientos/EspecificacionSoftware.md
+        - Especificaciones del software: requerimientos/EspecificacionSoftware.md   
     - Modelado:
         - Inicio: todo.md
     - Diseño:
