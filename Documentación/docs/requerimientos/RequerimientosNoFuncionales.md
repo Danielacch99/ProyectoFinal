@@ -22,6 +22,5 @@
 
 
 
-    # Requerimientos no funcionales:
+   
 
-* El cliente podrá regresar su compra si recibió algo que no podió o si viene defectuosa.

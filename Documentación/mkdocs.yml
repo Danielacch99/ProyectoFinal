@@ -18,7 +18,9 @@ nav:
             - Requerimientos funcionales: requerimientos/RequerimientosFuncionales.md
             - Requerimientos no funcionales: requerimientos/RequerimientosNoFuncionales.md
         - Especificaciones del software: requerimientos/EspecificacionSoftware.md
-        - Especificaciones del software: requerimientos/EspecificacionSoftware.md   
+    - Ingeniería de requerimientos:
+        - Estudio de vialidad: IngenieriaRequerimientos/EstudioVialidad.md
+        - Elicitación o extracción: IngenieriaRequerimientos/Elicitacion_Extraccion.md    
     - Modelado:
         - Inicio: todo.md
     - Diseño:
