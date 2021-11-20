@@ -23,8 +23,8 @@ nav:
         - Elicitación o extracción: IngenieriaRequerimientos/Elicitacion_Extraccion.md    
     - Modelado:
         - Inicio: todo.md
-    - Diseño:
-        - Inicio: todo.md
+    - Diseño: 
+        - Arquitectura: Diseño/Arquitectura.md
     - Validación:
         - Inicio: todo.md
 copyright: ©GMDXX

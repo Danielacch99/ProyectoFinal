@@ -78,6 +78,13 @@
 
 <br>
 
+#### Pantalla de productos comprados:
+
+* A la hora de realizar una compra se le enviará un correo electrónico con el ticket a la persona que realizó la compra.
+* Cuando un cliente compra un producto, se le da la fecha estimada de entrega. 
+
+<br>
+
 #### Pantalla del administrador:
 
 * El administrador podrá ver estadísticas sobre las ventas y visualizaciones de la página.
@@ -88,14 +95,7 @@
 
 <br>
 
-#### Pantalla de productos comprados:
-
-* A la hora de realizar una compra se le enviará un correo electrónico con el ticket a la persona que realizó la compra.
-* Cuando un cliente compra un producto, se le da la fecha estimada de entrega. 
-
-<br>
-
-# Base de datos de la página:
+#### Base de datos de la página:
 
 * Cuando el cliente se registra en la página se guardarán sus datos en una base de datos.
 * Se guardará la información de los productos existentes.
