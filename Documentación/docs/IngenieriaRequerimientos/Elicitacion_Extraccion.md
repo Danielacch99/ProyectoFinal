@@ -28,11 +28,12 @@ Realizamos una entrevista online de la cual hicimos algunas anotaciones, las cua
 * Debe haber links a redes sociales.
 * Debe tener un catálogo de productos.
 
-[comment]: <> (Inserte imagen de la entrevista aquí :) )
+![Entrevista](entrevista.png)
+
 
 Con esta información y con nuestras referencias de páginas web creamos el siguiente primer prototipo:
 
-[comment]: <> (Inserte imagen del primer prototipo aquí :) )
+![Prototipo1](Prototipo1.png)
 
 Después de esto, realizamos una segunda entrevista en la cual se le expuso al cliente el primer prototipo, del cual el cliente nos brindó algunas observaciones y correciones. Además obtuvimos nuevas anotaciones, las cuales fueron:
 
@@ -42,7 +43,43 @@ Después de esto, realizamos una segunda entrevista en la cual se le expuso al c
 
 Con esta nueva información realizamos un nuevo prototipo, el cual se muestra a continuación:
 
-[comment]: <> (Inserte imagen del segundo prototipo aquí :) )
+![Prototipo2](Prototipo2JustMind.png)
 
-Este nuevo prototipo fue expuesto al cliente y fue aprovado por él. También le mostramos los requerimientos que fuimos contruyendo, y una vez validados obtuvimos los requerimientos finales, los cuales se pueden consultar en la pestaña de **Requerimientos**.
+Este nuevo prototipo fue expuesto al cliente y fue aprovado por él. Solo que nos vimos a la necesidad de cambiar de aplicación de desarrollo para el prototipo, ya que encontramos que era más fácil y gratis, la cual es "Figma".
+
+![Prototipo3](PaginaPrincipal.png)
+
+Teniendo como resultado el siguiente nuevo prototipo de Página principal, el cual ya había sido aprobado por el cliente. También le mostramos los requerimientos que fuimos contruyendo, y una vez validados obtuvimos los requerimientos finales, los cuales se pueden consultar en la pestaña de **Requerimientos**.
+
+También fuimos consultando con el cliente otras pantallas que se iban a ocupar las cuales se muestran a continuación:
+
+![CrearCuenta](CrearCuenta.png)
+
+Pantalla de "Crear Cuenta"
+
+<br>
+
+![InicioSesion](InicioSesion.png)
+
+Pantalla de "Inicio de sesión"
+
+<br>
+
+![Catalogo](Catalogo.png)
+
+Pantalla de "Catálogo"
+
+<br>
+
+![PlayeraInformacion](PlayeraInformacion.png)
+
+Pantalla de "Palyera Información"
+
+<br>
+
+![CarritoCompras](CarritoCompras.png)
+
+Pantalla de "Carrito"
+
+
 
