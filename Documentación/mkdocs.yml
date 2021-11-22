@@ -25,6 +25,9 @@ nav:
         - Inicio: todo.md
     - Diseño: 
         - Arquitectura: Diseño/Arquitectura.md
+        - Componentes: Diseño/Componentes.md
+        - Implementacion: Diseño/Implementacion.md
+        - Interfaz: Diseño/Interfaz.md
     - Validación:
         - Inicio: todo.md
 copyright: ©GMDXX
