@@ -100,3 +100,22 @@
 * Cuando el cliente se registra en la página se guardarán sus datos en una base de datos.
 * Se guardará la información de los productos existentes.
 
+<br>
+
+# Diagrama de casos de uso.
+
+<br>
+
+* Cliente compra producto.
+* Cliente paga producto.
+* Cliente devuelve producto.
+* Cliente inicia sesión/registra
+* Administrador crea pedido.
+* Administrador Envia productos.
+* Administrador recibe devoluciones.
+* Administrador recibe ganancias.
+* Administrador recibe proveedores.
+
+<br>
+
+![DiagramaCasosDeUso](CasosDeUso.png)

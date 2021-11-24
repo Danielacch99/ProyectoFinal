@@ -1,7 +1,7 @@
 # Elicitación o extracción:
 <br>
 
-# 1) Obtención de información sobre el dominio del problema y el sistema actual
+# 1) Obtención de información sobre el dominio del problema y el sistema actual:
 <br>
 
 Para obtener información sobre el dominio del problema y el sistema actual visitamos distintas páginas web dedicadas a la venta de ropa recomendadas por el cliente y otras conocidas por nosotros. 
@@ -19,7 +19,7 @@ De estas páginas obtuvimos los requerimientos que se muestran en la pestaña de
 
 <br>
 
-# 2) Preparación y realización de las reuniones de elicitación/negociación.
+# 2) Preparación y realización de las reuniones de elicitación/negociación:
 
 Realizamos una entrevista online de la cual hicimos algunas anotaciones, las cuales fueron:
 
@@ -45,6 +45,41 @@ Con esta nueva información realizamos un nuevo prototipo, el cual se muestra a 
 
 ![Prototipo2](Prototipo2JustMind.png)
 
+<br>
 
+# 3) Identificar/revisar los objetivos del sistema:
 
+* La página debe ser fácil de usar.
+* La página debe ser intuitiva.
+* La página debe ser estéticamente atractiva.
+* La página debe ser rápida.
+* La página debe ser segura.
+* La página debe estar actualizada. 
+* Debe cumplir con las normas de NYCE para el comercio electrónico.
 
+<br>
+
+# 4) Identificar/revisar los requerimientos de almacenamiento de información:
+
+* Solamente se guardarán los datos que el cliente proporciona a la hora de registrarse.
+* Los datos del cliente estarán encriptados.
+* Si el cliente elimina su cuenta sus datos se eliminarán de forma permanente.
+* Nadie, incluso el administrador y los programadores, tendrán acceso a la información de los cliente.
+
+<br>
+
+# 5) Identificar/revisar los requerimientos funcionales
+
+Para ver los requerimientos funcionales puede ir a la sección [Requerimientos funcionales](../requerimientos/RequerimientosFuncionales.md).
+
+<br>
+
+# 6) Identificar/revisar los requerimientos no funcionales
+
+Para ver los requerimientos no funcionales puede ir a la sección [Requerimientos no funcionales](../requerimientos/RequerimientosNoFuncionales.md).
+
+<br>
+
+# 7) Priorizar objetivos y requerimientos
+
+Nuestro objetivo principal diseñar las pantallas que tendrá la página web, para que una vez aprobadas por el cliente podamos comenzar con el desarrollo del backend.

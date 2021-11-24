@@ -17,6 +17,12 @@ Integrantes del Equipo:
 | Francisco Javier Aguilera Terrazas | 316350536@pcpuma.acatlan.unam.mx |
 
 &nbsp;
+# Problematica
+
+Elaborar el diseño de una página web que sea atractiva, que cause impacto y que vaya acorde con las necesidades del cliente.
+
+
+&nbsp;
 # Objetivo
 
 <br>
@@ -25,8 +31,3 @@ Integrantes del Equipo:
 - El Aumento del alcance
 - Cumplir con los requisitos del cliente
 - Darle más formalidad al negocio
-
-&nbsp;
-# Problematica
-
-Elaborar el diseño de una página web que sea atractiva, que cause impacto y que vaya acorde con las necesidades del cliente.

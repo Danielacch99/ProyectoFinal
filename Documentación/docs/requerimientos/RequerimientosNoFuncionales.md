@@ -16,7 +16,16 @@
     * Si al tratar de iniciar sesión el usuario proporciona una contraseña diferente a la que registró, el sistema mandará un mensaje de error.
     * La contraseña de los usuarios deberá estar conformada por una mayúscula, un caracter especial y un número como mínimo  y deberá de ser de al menos 8 dígitos.
     
+<br>
 
+#### Requerimientos organizacionales:
+
+ <br>
+
+   * ##### Requerimientos de desarrollo: 
+
+      * El software debe ser construido siguiendo la norma NMX-COE-001-SCFI-2018 de NYCE para el comercio electrónico.
+   
 
 
 
