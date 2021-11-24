@@ -22,7 +22,7 @@ nav:
         - Estudio de vialidad: IngenieriaRequerimientos/EstudioVialidad.md
         - Elicitación o extracción: IngenieriaRequerimientos/Elicitacion_Extraccion.md    
     - Modelado:
-        - Inicio: todo.md
+        - Modelos de software: modelado/Modelado.md
     - Diseño: 
         - Arquitectura: Diseño/Arquitectura.md
         - Componentes: Diseño/Componentes.md
