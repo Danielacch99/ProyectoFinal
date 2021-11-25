@@ -39,6 +39,24 @@ Pantalla de "Carrito"
 
 <br>
 
+![PerfilUsuario](PerfilUsuario.jpeg)
+
+Pantalla de "Perfil del usuario"
+
+<br>
+
+![PantallaProductosComprados](PantallaProductosComprados.jpeg)
+
+Pantalla de "productos comprados"
+
+<br>
+
+![ProductosFavoritos](ProductosFavoritos.jpeg)
+
+Pantalla de "productos favoritos"
+
+<br>
+
 # Elementos que conforman a la página principal
 ![PantallaPrincipalElementos](PantallaPrincipalElementos.png)
 
@@ -61,4 +79,3 @@ Pantalla de "Carrito"
 
 # Elementos que conforman a la página de Carrito de compras
 ![PantallaCarriloElementos](PantallaCarriloElementos.png)
-

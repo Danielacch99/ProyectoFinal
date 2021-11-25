@@ -11,10 +11,10 @@
 
 Integrantes del Equipo:
 
-| Nombre | correo |
-| --- | --- |
-| Daniela Contreras Chávez | 419088130@pcpuma.acatlan.unam.mx |
-| Francisco Javier Aguilera Terrazas | 316350536@pcpuma.acatlan.unam.mx |
+| Nombre | correo | Nombre en GitHub |
+| --- | --- | --- |
+| Daniela Contreras Chávez | 419088130@pcpuma.acatlan.unam.mx | ingeniebrio69besosde3 |
+| Francisco Javier Aguilera Terrazas | 316350536@pcpuma.acatlan.unam.mx | Danielacch99 |
 
 &nbsp;
 # Problematica

@@ -6,6 +6,7 @@
 - El usuario deberá poder ver los productos existentes.
 - El usuario deberá poder ver los productos nuevos.
 - El usuario deberá poder marcar los productos que le gustan.
+- El usuario deberá poder ver sus productos comprados.
 - El usuario deberá poder ver el carrito de compras.
 - El usuario deberá poder realizar compras.
 - El usuario deberá poder dar click en el link de las redes sociales.
